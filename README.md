@@ -23,11 +23,11 @@ The roadmap has a number of useful features to come!
 
 In case you would simply like a public badge to count your visitors on your personal profile page, try [GitHub Profile Views Counter].
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+<a href="https://github.com/Efa-Isnawati/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Efa-Isnawati&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/Efa-Isnawati/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?account_id=1849174)
